@@ -2,6 +2,7 @@
 Bioinformatics research into ending the disease of death. Pseudocode for a jab that achieves equilibrium 
 between cancer and senescence via ensuring the optimum 9000 occurrences of TTAGGG (Telomeres): 
 
+```python
 DO {
 # In case cell is cancerous
 IF occurrences of “TTAGGG” in Cell Chromosomal DNA > 15000
