@@ -1,6 +1,5 @@
 # immortality
-Bioinformatics research into ending the disease of death. Pseudocode for a jab that achieves equilibrium 
-between cancer and senescence via ensuring the optimum 9000 occurrences of TTAGGG (Telomeres): 
+Pseudocode for a jab that achieves equilibrium between cancer and senescence via ensuring the optimum 9000 occurrences of TTAGGG (Telomere): 
 
 ```python
 DO {
@@ -11,6 +10,7 @@ Call SenescenceFunction()
 ELSEIF occurrences of “TTAGGG” in Cell Chromosomal DNA < 3000
 Call ActivateTelomerase()
 }
+# infinity loop
 WHILE count(TTAGGG) in Cell Chromosomal DNA > Zero
 
 SenescenceFunction() {
