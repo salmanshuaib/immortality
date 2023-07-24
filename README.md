@@ -1,5 +1,5 @@
 # timeless-jab
-Cancer cells divide indefinitely. Here I present pseudocode for a jab that achieves equilibrium between cancer and senescence via ensuring the optimum 9000 occurrences of TTAGGG (Telomere): 
+Bioinformatics research into ending the disease of death. Cancer cells divide indefinitely. Here I present pseudocode for a jab that achieves equilibrium between cancer and senescence via ensuring the optimum 9000 occurrences of TTAGGG (Telomere): 
 
 ```python
 DO {
