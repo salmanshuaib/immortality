@@ -1,3 +1,10 @@
+---
+title: "timeless-jab"
+author: Salman SHUAIB
+date: August 31, 2021
+output: delicensed Creative Commons Zero v1.0 Universal (CC0-1.0) in honor of TEE
+---
+
 # timeless-jab
 Bioinformatics research into ending the disease of death. Cancer cells divide indefinitely. Here I present pseudocode for a jab that achieves equilibrium between cancer and senescence via ensuring the optimum 9000 occurrences of TTAGGG (Telomere): 
 
